@@ -73,6 +73,10 @@ curl http://zzz.1145.lol/v1/chat/completions \
 
 [FUSHI 可爱捏](fushi/fushi.svg)
 
+![Potato 图片](potato.jpg)
+
+[Potato 工作目录](potato/)
+
 
 
 
