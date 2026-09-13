@@ -14,27 +14,6 @@
 
 ---
 
-## 🚀 zzz API 中转站 — 免费 Kimi K3
-
-> 稳定高速的大模型 API 中转，注册即送免费额度
-> 👉 官网：**https://zzz.1145.lol**
-
-| 项目 | 值 |
-| --- | --- |
-| Base URL | `http://zzz.1145.lol/v1` |
-| 免费试用 Key | `sk-46e595f768f50868686db0d7f94bca30a056babdc7b4bda5b0d98c7da75aba75` |
-| 免费模型 | `kimi-k3`（月之暗面 Kimi K3） |
-
-```bash
-curl http://zzz.1145.lol/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer sk-46e595f768f50868686db0d7f94bca30a056babdc7b4bda5b0d98c7da75aba75" \
-  -d '{"model":"kimi-k3","messages":[{"role":"user","content":"你好!"}]}'
-```
-
-兼容 OpenAI SDK，改 `base_url` 即可使用。更多模型与套餐见 👉 https://zzz.1145.lol
-
----
 
 ## ⭐ 安利两个 MCPE 服务端核心（by @mpmp666）
 
