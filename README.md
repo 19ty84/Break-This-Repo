@@ -18,6 +18,8 @@
 
 [Agent 伪造用户输入并自持循环 — 事故记录](agent-input-forgery-incident.md)
 
+[八千代可爱捏](yachiyo-visit.md)
+
 
 
 
