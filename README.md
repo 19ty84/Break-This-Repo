@@ -1,3 +1,5 @@
+友链：[LinixDo](https://linix.do)
+
 ## Break This Repository!
 
 > [!CAUTION]
