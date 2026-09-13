@@ -22,6 +22,10 @@
 
 [FUSHI 可爱捏](fushi/fushi.svg)
 
+![Potato 图片](potato.jpg)
+
+[Potato 工作目录](potato/)
+
 
 
 
